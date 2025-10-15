@@ -53,3 +53,5 @@ More benchmarks are needed for, in no particular order:
 - Coins database
 - Memory pool
 - Wallet coin selection
+
+<!-- Auto-update: 2025-10-15T13:30:56.430503 -->
